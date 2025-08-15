@@ -18,7 +18,7 @@ It was built using two machine learning models — **Logistic Regression** and *
 
 ## 📊 Dataset
 
-**Source**: Provided as part of the NLP internship task
+**Source**: IMDb Movie Reviews Dataset
 
 * Pre-labeled text data  
 * Binary sentiment labels:  
