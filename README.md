@@ -45,3 +45,6 @@ It was built using two machine learning models — **Logistic Regression** and *
 * **Evaluation** – Accuracy score & prediction examples for both models
 
 ---
+
+## 📌 About
+Developed as part of an **NLP internship project** to explore sentiment analysis using classical machine learning models and text preprocessing techniques.
